@@ -10,13 +10,21 @@
 1. 每日进行背单词，20min以上
 2. 一周坚持3-4次健身，绕校健身跑 `or` 俯卧撑，引体向上练习
 3. 坚持每天看`kindle` 30min以上
+-----------------------
+**2016.4.29 更新内容 **
+
+从五月开始升级为每周定量完成
+
+1. 每周进行背单词，70个新老单词以上 7个钩，每次离开图书馆之前回顾
+2. 一周坚持3-4次健身，绕校健身跑 `or` 俯卧撑，引体向上练习
+3. 坚持每天看`kindle` 5小时，10个钩
 
 ## 参与
 
 [入口](https://github.com/zjbao123/EveryDayPlan)
 
 
-如果你也想加入我的每日计划，可以`fork`[EveryDayPlan](https://github.com/zjbao123/EveryDayPlan/tree/master),由于我也是一个新手，希望大家能提更好的建议。
+如果你也想加入我的每日计划，欢迎'star'，可以`fork`[EveryDayPlan](https://github.com/zjbao123/EveryDayPlan/tree/master),由于我也是一个新手，希望大家能提更好的建议。
 
 ## 目录
 
